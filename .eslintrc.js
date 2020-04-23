@@ -1,7 +1,6 @@
 module.exports = {
     "extends": [
         "plugin:@typescript-eslint/recommended",
-        "plugin:react/recommended"
     ],
     "parserOptions": {
         "ecmaVersion": 2018,
